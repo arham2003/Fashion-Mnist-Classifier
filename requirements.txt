@@ -1,4 +1,4 @@
-﻿absl-py==2.1.0
+absl-py==2.1.0
 altair==5.5.0
 astunparse==1.6.3
 attrs==24.2.0
@@ -51,8 +51,7 @@ streamlit==1.40.2
 tenacity==9.0.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
-tensorflow==2.12.0
-tensorflow_intel==2.12.0
+tensorflow==2.18.0  # Replacing tensorflow-intel
 termcolor==2.5.0
 toml==0.10.2
 tornado==6.4.2
